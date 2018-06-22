@@ -11,6 +11,7 @@
 
 ## Lesson4
 - Methods and interfaces
-- Task tour17
+- Task Exercise: rot13Reader
+- Task Exercise: Images
 
 https://go-tour-jp.appspot.com/list
