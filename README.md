@@ -9,4 +9,9 @@
 ## Lesson3
 - More types: structs, slices, and maps.
 
+## Lesson4
+- Methods and interfaces
+- Task Exercise: rot13Reader
+- Task Exercise: Images
+
 https://go-tour-jp.appspot.com/list
