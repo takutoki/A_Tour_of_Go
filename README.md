@@ -14,4 +14,8 @@
 - Task Exercise: rot13Reader
 - Task Exercise: Images
 
+## Lesson5
+- Concurrency
+- Exercise: Web Crawler
+
 https://go-tour-jp.appspot.com/list
